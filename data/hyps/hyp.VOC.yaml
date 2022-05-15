@@ -23,7 +23,7 @@ obj: 0.51728
 obj_pw: 0.67198
 iou_t: 0.2
 anchor_t: 3.3744
-fl_gamma: 0.0
+fl_gamma: 0.1
 hsv_h: 0.01041
 hsv_s: 0.54703
 hsv_v: 0.27739
